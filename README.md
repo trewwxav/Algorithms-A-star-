@@ -74,3 +74,11 @@ $$f(n) = g(n) + h(n),$$ где:
 $$g(n) =$$ стоимость перехода от одного узла к другому. Это будет варьироваться от узла к узлу
 
 $$h(n) =$$ эвристическая аппроксимация значения узла. Это не реальная стоимость, а приблизительная стоимость
+
+
+# Список литературы <a name="Списоклитературы"></a>
+
+1. https://en.wikipedia.org/wiki/A*_search_algorithm
+2. https://towardsdatascience.com/a-star-a-search-algorithm-eb495fb156bb
+3. https://www.simplilearn.com/tutorials/artificial-intelligence-tutorial/a-star-algorithm#algorithm
+4. https://www.geeksforgeeks.org/a-search-algorithm/
